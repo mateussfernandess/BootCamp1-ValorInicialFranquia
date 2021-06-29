@@ -1,4 +1,4 @@
-# BootCamp1-ValorInicialFranquia
+# Boot Camp Professor Fernando Amaral - Projeto 1 - Valor Inicial Franquia
 Primeiro projeto do Bootcamp de Data Science do Professor Fernando Amaral
 Tecnologias utilizadas: RStudio + Shinny
 Pacotes do ambiente: 
